@@ -1,0 +1,6 @@
+fijo
+fijo
+fijo
+variable
+variable
+variable

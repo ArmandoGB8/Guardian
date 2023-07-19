@@ -1,0 +1,10 @@
+Vivienda
+Transporte
+Manuntencion
+Educacion
+Seguro
+Mantenimiento
+Fondo de Emergencias
+Escolares
+Deudas
+Ahorro

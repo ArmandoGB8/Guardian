@@ -1,0 +1,6 @@
+Salario
+Alquiler
+Caja de ahorro
+Aguinaldo
+Bonos
+PTU

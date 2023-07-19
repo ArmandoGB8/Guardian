@@ -1,0 +1,55 @@
+﻿Un programa hecho para ti, creado para la fácil administración de  tu información financiera así como 
+un método de metas para que siempre tengas en cuenta lo fácil que puedes lograr tus objetivos con 
+nosotros. 
+
+Manual de términos:
+
+•	Egresos. Erogación o salida de Recursos Financieros, motivada por el compromiso 
+	de liquidación de algún Bien o servicio recibido o por algún otro 
+	concepto. Desembolsos o salidas de Dinero, aún cuando no constituyan Gasto que
+	afecten las pérdidas o Ganancias.
+•	Ingresos. Cantidad de dinero ganada o recaudada.
+•	Bono. Una promesa con interés para saldar una suma exacta de dinero prestado 
+	(denominada cantidad principal) antes de que se cumpla una fecha exacta. 
+•	Alquiler. Ingresos recibidos a través del alquiler de propiedades públicas a terceros 
+	privados, como espacio para convenciones y bibliotecas. 
+•	Gastó. Una suma pagada por productos o servicios asociados con la provisión de 
+	servicios públicos, que incluye pagos para saldar una deuda e inversiones de 
+	infraestructura.
+•	Fondo. Un grupo de cuentas que se equilibran por sí solas. En el caso de las 
+	agencias con presupuestos más complejos, la información de contabilidad se 
+	organiza en fondos, cada uno con ingresos, gastos y saldos de fondo separados. 
+•	Ingresos fijos. Se refiere a cualquier tipo de inversión que genere un rendimiento 
+	regular (o fijo). Por ejemplo, si usted le presta dinero a un prestatario y el prestatario 
+	tiene que pagar intereses mensuales, usted está recibiendo un ingreso fijo.
+•	Ingresos variables. Son los que no se reciben de manera constante (horas extras, 
+	comisiones, premios, ganancia por alguna inversión que haga, trabajos 
+	independientes, o herencias). Los gastos son los distintos usos que se le dan al 
+	dinero. Estos pueden ser necesidades, obligaciones o gustos personales.
+•	Egresos fijos. son el tipo de gastos que debemos realizar sí o sí cada cierto tiempo 
+	y, generalmente, son mensuales y no varían en cuanto a monto respecta. Un claro 
+	ejemplo de éstos son los servicios de compañías varias, como el banco, la 
+	compañía eléctrica o el servicio telefónico.
+•	Egresos variables. son aquellos que no tienen un monto fijo, que generalmente 
+	dependen del consumo para cobrarse, esto es, mientras más se utiliza, más 
+	dinero cuesta. Por ejemplo, el monto que nos cobran por usar la tarjeta de crédito.
+•	Egresos inesperados: también denominados como gastos de emergencia, son 
+	aquellos que no teníamos incluidos previamente en nuestro presupuesto, 
+	imprevistos, como puede ser que de repente tengamos que visitar al médico y 
+	comprar medicinas.
+•	Ingreso intergubernamental. Ingresos provenientes de otras agencias públicas en 
+	forma de subsidios, derechos de ayuda social, ingresos compartidos o pagos en 
+	lugar de impuestos.
+Manual de uso:
+Guardian hace tu trabajo más fácil por lo que te daremos los primeros pasos para que puedas 
+lograr tus metas.
+Primero ingresa a la pestaña Ingresos en donde podrás ingresar los ingresos económicos, 
+de distintos rubros, diarios por un mes, después de tu primer mes podrás ingresarlos semanales o 
+mensuales. Después Ingresa a Egresos en donde puedes ingresar tus egresos económicos, de
+ distintos rubros, diarios por un mes, después de tu primer mes podrás ingresarlos semanales o 
+mensuales.
+Una vez Hecho esto podrás ir a la pestaña Presupuesto en la que te podremos dar un cálculo 
+adelantado de tus gastos en un mes en base a tus ingresos ingresados.
+Finalmente encontraras la pestaña metas en la que podrá ingresar tus propias metas que podrás
+ poner una descripción y en base a tus presupuestos te diremos el dinero que necesitas para llegar 
+a tu meta.
